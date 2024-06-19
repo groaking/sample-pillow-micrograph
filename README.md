@@ -14,3 +14,7 @@ Install the required Python module dependencies using:
 ```
 python -m pip install pillow pandas
 ```
+
+## Studying the Code
+
+You can open `generator.py` to see what's under the hood.
